@@ -9,6 +9,6 @@
 
 さらに多くの言語:
 
-[スペイン語](https://github.com/Chiruno-baka/Spanish)
+<spanish/Español>[スペイン語](https://github.com/Chiruno-baka/Spanish)
 
-[英語](https://github.com/Chiruno-baka/English-)
+<Inglés/English>[英語](https://github.com/Chiruno-baka/English-)
