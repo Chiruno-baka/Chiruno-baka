@@ -9,4 +9,5 @@
 
 さらに多くの言語:
 
-スペイン語[not-done]
+[スペイン語](https://github.com/Chiruno-baka/Spanish)
+
