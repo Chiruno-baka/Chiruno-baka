@@ -12,3 +12,5 @@
 <spanish/Español>[スペイン語](https://github.com/Chiruno-baka/Spanish)
 
 <Inglés/English>[英語](https://github.com/Chiruno-baka/English-)
+
+<estúpida/stupid>[馬鹿](https://github.com/Chiruno-baka/Bakaa/blob/main/README.md)
